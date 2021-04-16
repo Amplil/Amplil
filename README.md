@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amplil&theme=vue)
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Amplil) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amplil&theme=vue)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
