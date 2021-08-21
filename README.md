@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Amplil) -->
-
+<!-- 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amplil&theme=vue)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Amplil)
+ -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amplil&theme=vue" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amplil" />
+</a>
