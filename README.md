@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amplil&theme=vue)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Amplil)
  -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amplil&theme=vue" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amplil" />
-</a>
+ 
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amplil&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amplil&layout=compact&theme=buefy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Amplil)
