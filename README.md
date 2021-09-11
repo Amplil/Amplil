@@ -20,5 +20,5 @@ Here are some ideas to get you started:
  -->
  
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amplil&theme=vue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amplil&layout=compact&theme=buefy)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Amplil)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amplil&layout=compact&theme=buefy)
